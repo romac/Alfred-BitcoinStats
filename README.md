@@ -1,6 +1,6 @@
 # BitcoinStats
 
-> BitcoinStats in an Alfred 2 workflow that display statistics from [realtimebitcoin.info](http://realtimebitcoin.info).
+> BitcoinStats in an Alfred 2 workflow that displays statistics from [realtimebitcoin.info](http://realtimebitcoin.info).
 
 ## Installation
 
