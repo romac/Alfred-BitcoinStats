@@ -12,6 +12,7 @@
 
 Type `btc` in Alfred, optionally followed by a currency.
 You may change the default currency by editing the Script Filter and setting `$DEFAULT_CURRENCY` to any of the following available currencies:
+
 	USD, CNY, JPY, SGD, HKD, CAD, AUD, NZD, GBP, DKK, SEK, BRL, CHF, EUR, RUB, SLL, PLN, THB
 
 Select any item to copy its value to the clipboard.
