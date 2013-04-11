@@ -2,6 +2,12 @@
 
 > BitcoinStats in an Alfred 2 workflow that display statistics from [realtimebitcoin.info](http://realtimebitcoin.info).
 
+## Installation
+
+1. [Download the workflow](https://raw.github.com/romac/Alfred-BitcoinStats/master/Bitcoin%20Stats.alfredworkflow).
+2. Double-click on it.
+3. Follow the instructions below.
+
 ## Usage
 
 Type `btc` in Alfred, optionally followed by a currency.
@@ -14,7 +20,7 @@ You can hide the Credits and Help items by editing the Script Filter and setting
 
 ## Screenshot
 
-![Screenshot of the "search results"](http://goo.gl/DvXWz).
+![Screenshot of the "search results"](screenshot.png).
 
 ## Credits
 
